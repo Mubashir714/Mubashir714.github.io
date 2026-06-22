@@ -1,64 +1,67 @@
 ---
 layout: archive
-title: "CV"
+title: "CV" 
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
-
 {% include base_path %}
+<!-- <a href="{{ base_path }}/files/Mubashir's_CV.pdf" target="_blank" class="btn btn--primary">
+  <i class="fas fa-file-pdf"></i> See here(PDF) -->
+<!-- </a> -->
+<!-- <iframe
+    src="{{ base_path }}/files/Mubashir's_CV.pdf"
+    width="100%"
+    height="1000px"
+    style="border:none;">
+</iframe> -->
+<br><br>
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **BS Computer Science**, Government College University Faisalabad, Punjab, Pakistan — 2019 – 2023
+  * CGPA: 3.44 / 4.00
+  * Final Year Project: [Smart CPM Parser](https://github.com/Mubashir714/Smart-CPM-Parser), a web application automating cargo EDI message processing, built with Python, Flask, and Bootstrap
+  * Enhanced processing rates, improved efficiency, and delivered actionable insights through data visualization.
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Dec 2024 – Jan 2025: GenAI Instructor**
+  * Pak Angles (Remote) CA-USA
+  * Designed curriculum for advanced GenAI workshops.
+  * Delivered lectures to 1,000+ students on fine-tuning LLMs for more comprehensive and personalized responses.
+  * Built an agentic RAG model utilizing LangChain and sentence-transformers to provide reasoning capability to the RAG architecture.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Programming Languages:** Python, JavaScript, C/C++
+* **ML Libraries:** PyTorch, TensorFlow, Keras, Pandas, NumPy, Matplotlib
+* **LLMs / GenAI:** LangChain, LlamaIndex, AutoGen, Sentence-transformers, OpenAI APIs, hugging face
+* **Web:** HTML, CSS, Bootstrap, Tailwind CSS, Streamlit, chekraUI
+* **Databases:** MongoDB, Pinecone, Vectara.
+* **Tools:** Git, GitHub, VS Code, Jupyter, Colab, Notebook LLM, Google Studio AI.
 
-Publications
+Conferences
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+  <ul>{% for post in site.leadership reversed %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
