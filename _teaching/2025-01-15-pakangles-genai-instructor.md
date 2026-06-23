@@ -6,6 +6,7 @@ permalink: /teaching/2025-01-15-pakangles-genai-instructor
 venue: "Pak Angles"
 date: 2024-12-01
 location: "Remote, CA-USA"
+order: 3
 ---
 
 As a **GenAI Instructor at Pak Angles**, I designed the curriculum for advanced Generative AI workshops and delivered lectures to over **1,000 students** on fine-tuning large language models for more comprehensive and personalized responses.

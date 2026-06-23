@@ -6,6 +6,7 @@ permalink: /teaching/2024-01-01-icodeguru-trainer
 venue: "iCodeGuru, Silicon Valley"
 date: 2023-02-06
 location: "Remote"
+order: 2
 ---
 
 As a **Course Trainer at iCodeGuru**, I taught **Data Structures & Algorithms (DSA)** and **Object-Oriented Programming (OOP) in Python** to underrepresented students, with a focus on building strong fundamentals for those entering the field of computer science. 

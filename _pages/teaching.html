@@ -5,8 +5,13 @@ permalink: /teaching/
 author_profile: true
 ---
 
-{% include base_path %}
+<!-- {% include base_path %}
 
 {% for post in site.teaching reversed %}
   {% include archive-single-full.html %}
+{% endfor %} -->
+
+{% assign sorted_teaching = site.teaching | sort: 'order' %}
+{% for post in sorted_teaching%}
+  {% include archive-single-talk-full.html %}
 {% endfor %}
