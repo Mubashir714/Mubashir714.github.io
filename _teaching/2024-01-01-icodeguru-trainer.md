@@ -1,15 +1,15 @@
 ---
-title: "Course Trainer & Counsellor, iCodeGuru"
+title: "Course Trainer & Mentor, Non-Profit Organization"
 collection: teaching
 type: "Data Structures, Algorithms & OOP in Python"
 permalink: /teaching/2024-01-01-icodeguru-trainer
-venue: "iCodeGuru, Silicon Valley"
+venue: "Silicon Valley,USA"
 date: 2023-02-06
 location: "Remote"
 order: 2
 ---
 
-As a **Course Trainer at iCodeGuru**, I taught **Data Structures & Algorithms (DSA)** and **Object-Oriented Programming (OOP) in Python** to underrepresented students, with a focus on building strong fundamentals for those entering the field of computer science. 
+As a **Course Trainer**, I taught **Data Structures & Algorithms (DSA)** and **Object-Oriented Programming (OOP) in Python** to underrepresented students, with a focus on building strong fundamentals for those entering the field of computer science. 
 
 - Alongside, guiding students with crafting academic documents for fully funded graduate opportunities specifically in the USA and helping them how to get RA/TA opportunities.
 

@@ -1,5 +1,5 @@
 ---
-title: "NeuroScanAI — Brain Tumor Detection System"
+title: "NeuroScanAI Brain Tumor Detection System"
 collection: portfolio
 permalink: /portfolio/neuroscanai
 order: 3

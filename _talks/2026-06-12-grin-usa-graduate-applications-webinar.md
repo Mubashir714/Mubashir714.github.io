@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Webinar on Crafting Strong USA Graduate Applications"
 collection: talks
 type: "Webinar"
@@ -22,4 +22,4 @@ The session focused on helping students build competitive applications that stan
 
 The central message of the session: **strong graduate applications are built through clarity, impact, preparation, and authentic storytelling.**
 
-📺 [Watch the webinar recording](https://youtu.be/V1_6C0kBh4E)
+📺 [Watch the webinar recording](https://youtu.be/V1_6C0kBh4E) -->

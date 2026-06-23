@@ -20,9 +20,9 @@ redirect_from:
 
 Education
 ======
-* **BS Computer Science**, Government College University Faisalabad, Punjab, Pakistan — 2019 – 2023
+* **BS Computer Science**, Government College University Faisalabad, Pakistan 2019 – 2023
   * CGPA: 3.44 / 4.00
-  * Final Year Project: [Smart CPM Parser](https://github.com/Mubashir714/Smart-CPM-Parser), a web application automating cargo EDI message processing, built with Python, Flask, and Bootstrap
+  * Senior Year Project: [Smart CPM Parser](https://github.com/Mubashir714/Smart-CPM-Parser), a web application automating cargo EDI message processing, built with Python, Flask, and Bootstrap
   * Enhanced processing rates, improved efficiency, and delivered actionable insights through data visualization.
 
 Work experience
@@ -42,7 +42,12 @@ Skills
 * **Databases:** MongoDB, Pinecone, Vectara.
 * **Tools:** Git, GitHub, VS Code, Jupyter, Colab, Notebook LLM, Google Studio AI.
 
-Conferences
+
+*For peer-reviewed and conference service, see the [Conferences](/Conferences/) page. For project work, see [Projects](/Projects/) page. For teaching, see [Teaching](/teaching/) page.* 
+
+
+
+<!-- Conferences
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -64,4 +69,4 @@ Service and leadership
 ======
   <ul>{% for post in site.leadership reversed %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
