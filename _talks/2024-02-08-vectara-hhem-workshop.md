@@ -6,7 +6,7 @@ permalink: /talks/2024-02-08-vectara-hhem-workshop
 venue: "iCodeGuru"
 date: 2024-02-08
 location: "Virtual"
-order: 1
+order: 2
 ---
 
 As **Hackathon Lead Organizer at iCodeGuru**, I led a workshop on **Vectara's Hallucination Evaluation Model (HHEM)**. Cvered how the model detects hallucinations in LLM-generated outputs and its practical applications in building more reliable retrieval-augmented generation (RAG) systems.
