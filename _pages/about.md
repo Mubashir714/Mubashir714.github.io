@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Computer Science graduate (BS, Government College University Faisalabad, 2023) with experience in Generative AI, Large Language Models, and applied Machine Learning. My work includes designing RAG and agentic AI systems, training and interpreting deep learning models for real-world applications, and teaching computational thinking to a global audience of learners.
+I am a Computer Science graduate (BS, Government College University Faisalabad, 2023) with experience in Generative AI, cybersecurity, LLMs, and applied Machine Learning. My work includes designing RAG and agentic AI systems, training and interpreting deep learning models for real-world applications, and teaching computational thinking to a global audience of learners.
 
-I have served as a **Technical Reviewer for the 34th ACM International Conference on User Modeling, Adaptation, and Personalization (UMAP)** in Sweden, reviewing research in smart home personalization and conversational AI benchmarking. As a **GenAI Instructor at Pak Angles**, I designed and delivered curriculum on LLM fine-tuning to over 1,000 students, and as a three-time **Trainer for Stanford's Code in Place**, I have taught Python fundamentals to international students across multiple cohorts.
+I have served as a **Technical Reviewer for the 34th ACM International Conference on User Modeling, Adaptation, and Personalization (UMAP)** in Sweden, reviewing research in smart home personalization and conversational AI benchmarking. Invited as **Virtual Keynote Speaker for ICCASD-26, Switzerland**. As a three-time **Trainer for Stanford's Code in Place**, I have taught Python fundamentals to international students across multiple cohorts.
 
 Throughout my journey, I have realized that research and software engineering are not just about building better models or writing cleaner code, they are about understanding problems deeply and creating solutions that genuinely help people. I enjoy exploring new ideas, collaborating with curious minds, and continuously learning as artificial intelligence evolves. My goal is to contribute to impactful research while growing as an engineer and researcher.
 
